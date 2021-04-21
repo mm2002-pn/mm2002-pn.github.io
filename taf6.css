@@ -1,0 +1,95 @@
+h1{
+
+    text-align: center;
+    
+    font-family:university Roman;
+    
+    
+        text-decoration:none;
+        transition: 1.5s;
+        border: 0px solid transparent;
+        font-size: 50px;
+        
+        border-radius: 50px;
+        
+    box-shadow: 0 5px 50px 0 transparent inset, 0 5px 50px 0 black,
+    0 5px 50px 0 transparent inset, 0 5px 50px 0 black;
+}
+.jip h4{
+
+    margin-bottom: 100%;
+}
+
+
+.button {
+    
+    transition: 0.5s;
+    text-transform: uppercase;
+   
+    font-size: 30px;
+    width: 150px;
+    border: 2px solid transparent;
+    background-color: rgb(218, 214, 210);
+ 
+    border: 1px solid rgb(212, 209, 203);
+   text-align: center;
+    border-radius: 100px;
+    color: black;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+ 
+   
+}
+.button:hover{
+
+    box-shadow: 0 5px 50px 0 white inset, 0 5px 50px 0 gray,
+                0 5px 50px 0 white inset, 0 5px 50px 0 gray;
+}
+a{
+    text-decoration: none;
+}
+ 
+ .b{
+
+  
+    transition: 0.5s;
+    text-transform: uppercase;
+    border: 2px solid transparent;
+    background-color: rgb(218, 214, 210);
+ 
+    border: 1px solid rgb(212, 209, 203);
+   
+    border-radius: 50px;
+    color: black;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100%;
+ 
+    text-align: center;
+
+font-weight: 100%;
+
+
+
+
+
+ }
+
+
+
+
+
+
+ .footer-bottom {
+    text-align: center;
+    padding: 10px;
+    background-color: #00121b;
+    color: #fff;
+    font-size: 12px;
+}
+
+ .b:hover{
+
+    box-shadow: 0 3px 40px 0 transparent inset, 0 5px 40px 0 gray,
+                0 3px 40px 0 transparent inset, 0 5px 40px 0 gray;
+                }

@@ -1,0 +1,41 @@
+.bor{
+
+    box-shadow: 12px 12px 19px black;
+   
+}
+
+
+  
+body {
+    background-image: url(img/ecran.webp);
+}
+
+p{
+    text-align: center;
+    text-overflow: ellipsis;
+    text-shadow: 1px 1px 2px;
+    font-size: xx-large;
+    font-weight: 900;
+    font-style: oblique;
+}
+
+   
+   
+   
+  }
+  .but:hover{
+  
+  box-shadow:   0 15px 10px 0 gray inset, 0 50px 90px 0 black,
+    0 15px 10px 0 gray inset, 0 50px 90px 0 black;
+}
+.mpi{
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    font-style: oblique;
+text-decoration: underline;
+}
+
+
+
+

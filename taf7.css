@@ -1,0 +1,121 @@
+nav
+ {
+ float : left ;
+ 
+ 
+ }
+ body{background-image: url(img/contac\ us.jpg);
+    background-size: cover;
+
+ }
+
+ section{
+ border : 1px solid white;
+}
+
+nav{
+ float : left ;
+ 
+ 
+ list-style-type: none;
+ text-decoration: none;
+ }
+
+ section{
+ margin-left : 170px ;
+ border : 6px solid white;
+}
+nav
+ {
+display : inline - block ;
+
+ border-style: none;
+ list-style-type: none;
+ 
+ }
+
+ section
+ {
+ display : inline - block ;
+
+ border : 6px solid white;
+ height: 440px;
+ width: 250px;
+ margin: auto;
+ border-radius: 30px;
+ ;
+ box-shadow: 16px 12px 25px;
+ border-bottom: 15px solid gray;
+
+
+background-color: white;
+
+}
+
+.center{
+    text-align: center;
+    padding: 4%;
+}
+
+ form{
+    
+  
+     align-content: center;
+ }
+ .POUSS{
+
+    align-content: center;
+
+    margin-right: 50%;
+}
+section .POUSS{
+
+
+    text-align: center;
+    
+    margin-top: 5%;
+    margin-right: 0%;
+
+}
+section h2 {
+    text-align: center;
+}
+ .pile{
+text-decoration:none;
+transition: 0.5s;
+text-transform: uppercase;
+border: 2px solid transparent;
+font-size: 30px;
+
+border-radius: 50px;
+text-align: center;
+ 
+ }
+ 
+
+ .conten{
+position: absolute;
+
+
+
+
+ }
+ .button {
+    
+    transition: 0.5s;
+    text-transform: uppercase;
+    border: 1px solid black;
+    font-size: 30px;
+    width: 150px;
+    border-radius: 100px;
+    text-align: center;
+}
+.button:hover{
+
+    box-shadow: 0 5px 50px 0 white inset, 0 5px 50px 0 gray,
+                0 5px 50px 0 white inset, 0 5px 50px 0 gray;
+}
+a{
+    text-decoration: none;
+}
+ 
